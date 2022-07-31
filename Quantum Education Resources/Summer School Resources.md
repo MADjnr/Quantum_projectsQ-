@@ -52,15 +52,15 @@ year](https://airtable.com/shrt7lqrHDWO56W9x)
 
  ## Books:
  
-[Modern Quantum Chemistry: Introduction to Advanced Electronic structure theory](https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions](https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions "https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions)
+[Modern Quantum Chemistry: Introduction to Advanced Electronic structure theory](https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions)
 
-[Molecular Electronics- Structure Theory](https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions](https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions "https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions)
+[Molecular Electronics- Structure Theory](https://books.google.co.cr/books?id=KQ3DAgAAQBAJ&hl=es&source=gbs_book_other_versions)
 
-[Introduction to Computational Chemistry](https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990](https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990 "https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990)
+[Introduction to Computational Chemistry](https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990)
 
-[Essentials of Computational Chemistry: Theories and Models](https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821](https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821 "https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821)
+[Essentials of Computational Chemistry: Theories and Models](https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821)
 
-[Introduction to Coupled Cluster theory](https://cc-lecture.readthedocs.io/en/latest/index.html](https://cc-lecture.readthedocs.io/en/latest/index.html "https://cc-lecture.readthedocs.io/en/latest/index.html)
+[Introduction to Coupled Cluster theory](https://cc-lecture.readthedocs.io/en/latest/index.html)
 
 [Relativistic Quantum Chemistry: The Fundamental Theory of Molecular Science](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527667550)
 
