@@ -7,8 +7,7 @@
 
 [Introduction to Quantum Computation and Quantum Hardware](https://youtu.be/Rs2TzarBX5I)
 
-[Lectures on time evolution and the Schrondinger equation]([https://www.youtube.com/watch?v=TWpyhsPAK14&t=1s](https://www.youtube.com/watch?v=TWpyhsPAK14&t=1s "https://www.youtube.com/watch?v=TWpyhsPAK14&t=1s")
-
+[The Theoretical minimum--- Quantum Mechanics](https://youtu.be/iJfw6lDlTuA)
 
  ## Books
 
@@ -33,26 +32,26 @@
 
 [Numerical Simulations of Noisy Quantum Circuits for Computational Chemistry ](https://arxiv.org/abs/2112.15540)
 
-[Computational Quantum Chemistry](Quantum computational chemistry)
+[Computational Quantum Chemistry](https://arxiv.org/abs/1808.10402)
 
 [Quantum algorithms for quantum chemistry and quantum materials science](https://arxiv.org/abs/2112.15540)
 
 [Universal quantum circuits for quantum chemistry](https://arxiv.org/abs/2106.13839)
 
-[A review of the usage of Coupled Cluster in Quantum Computing](A view of the usage of Coupled Cluster in Quantum Computing)
+[A review of the usage of Coupled Cluster in Quantum Computing](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00932j)
 
-[English translated paper of Born and Oppenheimer presenting their approximation](English translated paper of Born and Oppenheimer presenting their approximation)
+[English translated paper of Born and Oppenheimer presenting their approximation](https://squares.ulb.be/people/bsutclif/bornopn_corr.pdf)
 
 [PySCF: The Python-based Simulations of Chemistry Framework](https://arxiv.org/pdf/1701.08223.pdf)
 
 [Recent developments in the PySCF program package](https://arxiv.org/pdf/2002.12531.pdf)
 
-[Multiconfigurational Quantum Chemistry (Focus on static correlation and some multireference methods)]([https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126171](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126171 "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126171")
+[Multiconfigurational Quantum Chemistry (Focus on static correlation and some multireference methods)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126171)
 
 [Physical interpretation of Quantum Dynamics](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1927.0012)
 
 ### Bonus 
 
-[Road map to Quantum Machine Learning]([https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/README.md#quantum-machine-learning](https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/README.md#quantum-machine-learning "https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/README.md#quantum-machine-learning")
+[Road map to Quantum Machine Learning](https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/README.md#quantum-machine-learning)
 
 
